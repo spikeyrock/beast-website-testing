@@ -51,25 +51,25 @@ font-family: 'Lato', sans-serif;
 
 body {
 	font-size: 14px;
-	background:black;
+	background: black;
 	max-width: 1920px;
 	margin: 0 auto;
 	overflow-x: hidden;
 }
 
 #tokenomics {
-	
-		padding: 75px 0 109px;
-		background: url(../../assets/images/space5.jpg)no-repeat;
-		background-size: cover;
-	
+
+	padding: 75px 0 109px;
+	background: url(../../assets/images/space5.jpg)no-repeat;
+	background-size: cover;
+
 }
 
 
 @font-face {
 	font-family: 'Anton';
 	src: url(../fonts/Anton-Regular.ttf);
-  }
+}
 
 a,
 a:hover,
@@ -426,7 +426,7 @@ body {
 	background-size: cover;
 	background-position: center;
 	align-self: center;
-	
+
 }
 
 .single-slide-item h2 {
@@ -439,7 +439,7 @@ body {
 	text-transform: capitalize;
 	border: #fcee21;
 	text-align: center;
-	
+
 }
 
 .single-slide-item p {
@@ -481,7 +481,7 @@ body {
 	border: 1px solid #fff;
 }
 
-.product-text{
+.product-text {
 	display: flex;
 	justify-content: center;
 }
@@ -501,7 +501,8 @@ body {
 
 .single-slide-item.slide-1:before,
 .single-slide-item.slide-2:before {
-	background: transparent; position: absolute;
+	background: transparent;
+	position: absolute;
 	left: 0;
 	top: 0;
 	width: 100%;
@@ -622,6 +623,7 @@ body {
 	position: relative;
 	z-index: 1;
 }
+
 .we-do1 {
 	padding: 75px 0 82px;
 	background-image: url(../../assets/images/space.jpg);
@@ -640,6 +642,7 @@ body {
 	font-family: 'Anton';
 	font-weight: 600;
 }
+
 .section-header h2 {
 	color: #fcee21;
 	font-size: 45px;
@@ -688,7 +691,7 @@ body {
 
 /*we-do-description*/
 .single-we-do-box {
-	background:transparent;
+	background: transparent;
 	min-height: 345px
 }
 
@@ -924,9 +927,7 @@ a:focus.private-sale-btn {
 	background-size: cover;
 }
 
-.project-details {
-	
-}
+.project-details {}
 
 .project-content {
 	margin-top: 62px;
@@ -1092,7 +1093,7 @@ a:focus.private-sale-btn {
 	background-size: cover;
 	position: relative;
 	z-index: 1;
-	
+
 }
 
 .team.team-main {
@@ -1496,7 +1497,7 @@ a:active.learn-btn {
 	width: 100%;
 	height: auto;
 	border-radius: 0;
-	
+
 }
 
 /*-------------------------------------
@@ -2206,7 +2207,8 @@ a:active.learn-btn {
 	box-shadow: 0 0 20px rgba(112, 134, 230, .2);
 	height: 435px;
 }
-.team-details-img a{
+
+.team-details-img a {
 	cursor: pointer;
 }
 
@@ -2795,24 +2797,24 @@ a:active.learn-btn {
 /*========================Thank you=================*/
 
 /* Media Queries */
-@media (min-width:1200px) and (max-width: 2560px){
-	.token-image{
+@media (min-width:1200px) and (max-width: 2560px) {
+	.token-image {
 		display: flex;
 		justify-content: center;
 	}
 }
-@media (min-width:370px) and (max-width: 600px){
-	.single-team-details{
+
+@media (min-width:370px) and (max-width: 600px) {
+	.single-team-details {
 		margin: 25px;
 	}
 }
-@media (min-width:599px) and (max-width: 1080px){
-	
-	.single-team-details{
+
+@media (min-width:599px) and (max-width: 1080px) {
+
+	.single-team-details {
 		margin: 25px;
 	}
 }
-@media (min-width:1079px) and (max-width: 1200px){
-	
-	
-}
+
+@media (min-width:1079px) and (max-width: 1200px) {}
