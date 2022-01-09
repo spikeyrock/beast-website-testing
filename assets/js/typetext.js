@@ -36,6 +36,7 @@ document.addEventListener('DOMContentLoaded',function(event){
          StartTextAnimation(i + 1);
        });
       }
+      
     }
     // start the text animation
     StartTextAnimation(0);

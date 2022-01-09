@@ -1129,6 +1129,7 @@ a:focus.private-sale-btn {
 .team .team-carousel .col-xs-12 {
 	width: 100%;
 	height: auto;
+	object-fit: contain;
 }
 
 .team-card {
@@ -1496,7 +1497,7 @@ a:active.learn-btn {
 	width: 100%;
 	height: auto;
 	border-radius: 0;
-	margin-right: auto;
+	
 }
 
 /*-------------------------------------
@@ -2794,7 +2795,7 @@ a:active.learn-btn {
 /*========================Thank you=================*/
 
 /* Media Queries */
-@media (min-width:1200px) and (max-width: 1900px){
+@media (min-width:1200px) and (max-width: 2560px){
 	.token-image{
 		display: flex;
 		justify-content: center;
