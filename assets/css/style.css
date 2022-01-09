@@ -101,7 +101,8 @@ p {
 	font-family: 'Mode Seven'!important;
 	text-size-adjust: 25%;
 }
-
+h1{font-size: 55px!important;}
+h2{font-size: 45px !important;}
 img {
 	border: none;
 	max-width: 100%;
