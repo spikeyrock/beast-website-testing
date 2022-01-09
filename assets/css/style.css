@@ -495,6 +495,7 @@ body {
 
 .single-slide-item.slide-2 {
 	background-image: url(../../assets/images/spaccccccccccccccccccccc.gif);
+	height: 65vh;
 	position: relative;
 	z-index: 1;
 }
@@ -2119,6 +2120,7 @@ a:active.learn-btn {
 	background: url(../../assets/images/tech.gif)no-repeat;
 	background-position: center;
 	background-size: cover;
+	height: 45vh;
 	padding: 124px 0 144px;
 	z-index: 1;
 }
