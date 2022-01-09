@@ -489,8 +489,8 @@ body {
 }
 
 .single-slide-item.slide-1 {
-	background-image: url(../../assets/images/beast.gif);
-	height: 90vh;
+	background-image: url(../../assets/images/bg3.png);
+	background-size: cover;
 	position: relative;
 	z-index: 1;
 }
@@ -625,7 +625,7 @@ body {
 }
 .we-do1 {
 	padding: 75px 0 82px;
-	background-image: url(../../assets/images/space1-1.png);
+	background-image: url(../../assets/images/bg1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
