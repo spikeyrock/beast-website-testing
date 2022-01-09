@@ -436,7 +436,7 @@ body {
 	font-size: 80px;
 	font-weight: 500;
 	line-height: 1.28;
-	padding-top: 30vh;
+	padding-top: 25vh;
 	font-family: 'Anton';
 	text-transform: capitalize;
 	border: #fcee21;
@@ -489,14 +489,14 @@ body {
 }
 
 .single-slide-item.slide-1 {
-	background-image: url(../../assets/images/bg3.png);
+	background-image: url(../../assets/images/globe.gif);
 	background-size: cover;
 	position: relative;
 	z-index: 1;
 }
 
 .single-slide-item.slide-2 {
-	background-image: url(../../assets/images/banner/banner2.jpg);
+	background-image: url(../../assets/images/spaccccccccccccccccccccc.gif);
 	position: relative;
 	z-index: 1;
 }
@@ -619,13 +619,14 @@ body {
 --------------------------------------*/
 .we-do {
 	padding: 75px 0 82px;
-	background-image: url(../../assets/images/space.jpg);
+	background-image: url(../../assets/images/nebula.jpeg);
+	background-size: cover;
 	position: relative;
 	z-index: 1;
 }
 .we-do1 {
 	padding: 75px 0 82px;
-	background-image: url(../../assets/images/bg1.png);
+	background-image: url(../../assets/images/space.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -921,7 +922,7 @@ a:focus.private-sale-btn {
 --------------------------------------*/
 .project {
 	padding: 75px 0 109px;
-	background: url(../../assets/images/nebula2.jpeg)no-repeat;
+	background: url(../../assets/images/space11.jpg)no-repeat;
 	background-size: cover;
 }
 
@@ -2116,7 +2117,7 @@ a:active.learn-btn {
 
 .about-part {
 	position: relative;
-	background: url(../../assets/images/spaccccccccccccccccccccc.gif)no-repeat;
+	background: url(../../assets/images/tech.gif)no-repeat;
 	background-position: center;
 	background-size: cover;
 	padding: 124px 0 144px;
@@ -2150,13 +2151,14 @@ a:active.learn-btn {
 }
 
 .about-part-details h2 {
-	position: relative;
 	color: #fcee21;
-	font-size: 75px;
-	font-weight: 1000;
+	font-size: 80px;
+	font-weight: 500;
+	line-height: 1.28;
 	font-family: 'Anton';
-	margin-bottom: 3px;
-	left: 15px;
+	text-transform: capitalize;
+	border: #fcee21;
+	text-align: center;
 
 }
 
@@ -2198,8 +2200,8 @@ a:active.learn-btn {
 --------------------------------------*/
 .team-details {
 	padding: 115px 0 90px;
-	background-image: url(../images/spaceopt.jpg);
-	background-size: fill;
+	background-image: url(../images/space10.jpg);
+	background-size: contain;
 }
 
 .team-details-img img {
