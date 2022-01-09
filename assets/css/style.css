@@ -497,6 +497,7 @@ body {
 .single-slide-item.slide-1 {
 	background-image: url(../../assets/images/globe.gif);
 	background-size: cover;
+	height: 75vh;
 	position: relative;
 	z-index: 1;
 }
