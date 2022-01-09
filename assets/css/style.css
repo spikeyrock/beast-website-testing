@@ -438,7 +438,7 @@ body {
 
 .single-slide-item h2 {
 	color: #fcee21;
-	font-size: 80px;
+	font-size: 80px !important;
 	font-weight: 500;
 	line-height: 1.28;
 	padding-top: 25vh;
@@ -446,8 +446,9 @@ body {
 	text-transform: capitalize;
 	border: #fcee21;
 	text-align: center;
-
 }
+
+
 
 .single-slide-item p {
 	color: #fefefe;
@@ -649,14 +650,14 @@ body {
 	color: #fcee21;
 	font-size: 65px;
 	font-family: 'Anton';
-	font-weight: 600;
+	font-weight: 400;
 }
 
 .section-header h2 {
 	color: #fcee21;
-	font-size: 45px;
+	font-size: 40px;
 	font-family: 'Anton';
-	font-weight: 400;
+	font-weight: 300;
 }
 
 .section-header h2 span {
@@ -810,6 +811,8 @@ body {
 --------------------------------------*/
 .private-sale {
 	padding: 116px 0 85px;
+	background-image: url(../images/space11.jpg);
+	background-size: cover;
 }
 
 .private-sale-single {
@@ -2161,7 +2164,7 @@ a:active.learn-btn {
 
 .about-part-details h2 {
 	color: #fcee21;
-	font-size: 80px;
+	font-size: 80px !important;
 	font-weight: 500;
 	line-height: 1.28;
 	font-family: 'Anton';
