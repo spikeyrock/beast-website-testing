@@ -269,8 +269,9 @@ body {
 .navbar-brand,
 .navbar-brand:hover,
 .navbar-brand:focus {
-	margin-top: 33px;
+	margin-top: 25px;
 	padding: 0;
+	transform: scale(80%);
 }
 
 /* navbar-brand */
