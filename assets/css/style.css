@@ -70,6 +70,10 @@ body {
 	font-family: 'Anton';
 	src: url(../fonts/Anton-Regular.ttf);
 }
+@font-face {
+	font-family: 'Mode Seven';
+	src: url(../fonts/MODES___.TTF);
+}
 
 a,
 a:hover,
@@ -94,6 +98,8 @@ h6 {
 p {
 	margin: 0;
 	font-size: 14px;
+	font-family: 'Mode Seven'!important;
+	text-size-adjust: 25%;
 }
 
 img {
